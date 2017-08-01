@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Class DataProcess
+ */
 class DataProcess
 {
     /** @var string  */
